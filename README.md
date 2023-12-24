@@ -20,3 +20,4 @@ Les risques principaux incluent les conditions de concurrence (race conditions),
 où plusieurs threads tentent d'accéder ou de modifier les mêmes données simultanément.
  Cela peut conduire à des résultats imprévisibles et des erreurs dans le calcul des matrices.
 #multiplication-matrice-using-threads
+# multiplication-matrice-using-threads
